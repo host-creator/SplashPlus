@@ -1,7 +1,6 @@
-## welcome to bot jeli
+## Welcome to bot jeli
 
-You can use the [editor on GitHub](https://github.com/host-creator/joli-discord-bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+You can invite bot to your discord server here
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
