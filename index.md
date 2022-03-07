@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## welcome to bot jeli
 
 You can use the [editor on GitHub](https://github.com/host-creator/joli-discord-bot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
