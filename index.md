@@ -1,4 +1,4 @@
-<h2 dir="auto">Welcome to bot jeli</h2>
+<h2 dir="auto">Welcome to bot Splash+</h2>
 <p dir="auto"><span style="color: #00ff00;"><strong>You</strong></span> can invite bot to your discord server <strong><a href="https://discord.com/api/oauth2/authorize?client_id=950077959904059412&amp;permissions=8&amp;scope=bot">here</a></strong></p>
 <p dir="auto"><strong>Jelli</strong> Can Play Music <strong>|</strong>Texiting | Invites people | Ban kick people | and more...<a id="user-content-mark" class="anchor" href="https://github.com/host-creator/joli-discord-bot/blob/gh-pages/index.md#mark" aria-hidden="true"></a></p>
 <p dir="auto">&nbsp;</p>
